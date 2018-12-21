@@ -41,11 +41,11 @@ There are several tags in HTML, so I think it is better to access the [w3school]
 
 [w3site]: https://www.w3schools.com/html/default.asp
 
-* <p>: Paragraph;
-* <img>: Image;
-* <h1>: Header 1 (it is biggest);
-* <br>: break line, etc.
-* <em>: Italic
+* `<p>`: Paragraph;
+* `<img>`: Image;
+* `<h1>`: Header 1 (it is biggest);
+* `<br>`: break line, etc.
+* `<em>`: Italic
 
 [Element Reference - From Mozilla Dev][mozilla_dev] : This guide is very useful to find a short explanation of each kind of element.
 

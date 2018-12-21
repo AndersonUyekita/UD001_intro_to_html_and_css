@@ -5,7 +5,7 @@ This course introduce the basics of the HTML and CSS syntax.
 #### Tags
 
 * Start        : 21/12/2018
-* End          : DD/MM/YYYY
+* End          : 21/12/2018
 * Title        : Intro to HTML and CSS
 * COD          : UD001
     * **Instructor:** Cameron Pittman
@@ -13,15 +13,20 @@ This course introduce the basics of the HTML and CSS syntax.
 
 ## Objectivies
 
-Finish this course in 5 hours.
+Finish this course in 3 hours.
 
 #### Syllabus
 
-* Chapter 01 - Intro to HTML and CSS
-    * Lesson 01 - HTML Syntax
-    * Lesson 02 - HTML Syntax Problem Set
-    * Lesson 03 - CSS Syntax
-    * Lesson 04 - CSS Syntax Problem Set
+* [x] Chapter 01 - Intro to HTML and CSS
+    * [x] [Lesson 01 - HTML Syntax][c01_les01]
+    * [x] [Lesson 02 - HTML Syntax Problem Set][c01_les02]
+    * [x] [Lesson 03 - CSS Syntax][c01_les03]
+    * [x] [Lesson 04 - CSS Syntax Problem Set][c01_les04]
+
+[c01_les01]: https://github.com/AndersonUyekita/UD001_intro_to_html_and_css/tree/master/01-Chapter_01/01-Lesson_01
+[c01_les02]: https://github.com/AndersonUyekita/UD001_intro_to_html_and_css/tree/master/01-Chapter_01/02-Lesson_02
+[c01_les03]: https://github.com/AndersonUyekita/UD001_intro_to_html_and_css/tree/master/01-Chapter_01/03-Lesson_03
+[c01_les04]: https://github.com/AndersonUyekita/UD001_intro_to_html_and_css/tree/master/01-Chapter_01/04-Lesson_04
 
 #### Repository Structure
 
